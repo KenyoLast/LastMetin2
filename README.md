@@ -1,0 +1,2 @@
+-- This a quest repository of LastMetin2 by Kenyo
+-- In this repository you only can see the quest of this server, not the source.
